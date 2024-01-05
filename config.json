@@ -1,0 +1,15 @@
+{
+  "postgresql": {
+    "host": "<your_postgresql_host>",
+    "port": <your_postgresql_port>,
+    "database_name": "<your_postgresql_database_name>",
+    "user": "<your_postgresql_user>",
+    "password": "<your_postgresql_password>"
+  },
+  "python": {
+    "path": "<path_to_python_executable>"
+  },
+  "send_to_mongo": {
+    "path": "<path_to_send_to_mongo_script>"
+  }
+}
