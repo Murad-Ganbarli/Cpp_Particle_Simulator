@@ -1,7 +1,3 @@
-Certainly! Below is a template for your README.md file. Please replace placeholders with actual project information.
-
----
-
 # Particle Simulator
 
 ## Overview
@@ -87,9 +83,3 @@ Configure the simulation and database settings in `config.json`. Replace placeho
 - `config.json`: Configuration file for simulation and database settings.
 - `database.py`: Python script for database interactions.
 - `README.md`: Project documentation.
-
-
-
----
-
-Feel free to add more sections or details as needed for your specific project.
